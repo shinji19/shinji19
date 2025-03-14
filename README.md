@@ -3,10 +3,8 @@
 #### web3
 
 - JOC stable coin experimental implementation
+  - https://app.akindo.io/communities/wKk7da6EaikRRdN7/products/d8BOwBO4ph7a9qQ0
   - https://github.com/shinji19/joc-stable-coin
-- rock-paper-scissors for study
-  - https://github.com/shinji19/rock-paper-scissors-contract
-  - https://github.com/shinji19/rock-paper-scissors
 - AI+Crypto Hackathon
   - https://app.akindo.io/communities/Wjkmqjm4jIPPvNEw/products/Be7jq7R2dcdZBkJx
   - https://github.com/lepus-shinagawa/gemini
